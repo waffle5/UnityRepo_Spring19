@@ -299,7 +299,7 @@ TextMesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 460036254}
-  m_Text: Naw Fam
+  m_Text: 'Naw '
   m_OffsetZ: 0
   m_CharacterSize: 2
   m_LineSpacing: 1
@@ -325,7 +325,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
   m_MotionVectors: 1
-  m_LightProbeUsage: 1
+  m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
@@ -357,13 +357,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 460036254}
-  m_LocalRotation: {x: -0, y: -0.8484645, z: -0, w: 0.52925235}
-  m_LocalPosition: {x: 1.67, y: 4.64, z: -4.79}
+  m_LocalRotation: {x: -0, y: -0.9997069, z: -0, w: -0.024211109}
+  m_LocalPosition: {x: 3.61, y: 4.64, z: 0.54}
   m_LocalScale: {x: 1, y: 1, z: 2}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 5
-  m_LocalEulerAnglesHint: {x: 0, y: -116.090004, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -182.775, z: 0}
 --- !u!1 &534669902
 GameObject:
   m_ObjectHideFlags: 0
